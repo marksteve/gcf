@@ -1,0 +1,86 @@
+{
+  "name": "Level 1",
+  "logos": {
+    "abscbn.png": {
+      "answers": ["abscbn", "abs-cbn"]
+    },
+    "alaska.png": {
+      "answers": ["alaska"]
+    },
+    "bench.png": {
+      "answers": ["bench"]
+    },
+    "cdrking.png": {
+      "answers": ["cdrking", "cdr king", "cdr-king"]
+    },
+    "cebu-pacific.png": {
+      "answers": ["cebupacific", "cebu pacific"]
+    },
+    "chowking.png": {
+      "answers": ["chowking"]
+    },
+    "datu-puti.png": {
+      "answers": ["datu-puti", "datu puti"]
+    },
+    "enchanted-kingdom.png": {
+      "answers": ["enchanted kingdom"]
+    },
+    "fita.png": {
+      "answers": ["fita"]
+    },
+    "globe.png": {
+      "answers": ["globe"]
+    },
+    "gma.png": {
+      "answers": ["gma", "gma network"]
+    },
+    "goldilocks.png": {
+      "answers": ["goldilocks"]
+    },
+    "jollibee.png": {
+      "answers": ["jollibee"]
+    },
+    "lucky-me.png": {
+      "answers": ["lucky me"]
+    },
+    "magnolia.png": {
+      "answers": ["magnolia"]
+    },
+    "maxs.png": {
+      "answers": ["max", "maxs", "max's"]
+    },
+    "meralco.png": {
+      "answers": ["meralco"]
+    },
+    "mercury-drug.png": {
+      "answers": ["mercury", "mercury drug"]
+    },
+    "ministop.png": {
+      "answers": ["ministop", "mini-stop", "mini stop"]
+    },
+    "national-bookstore.png": {
+      "answers": ["national", "national bookstore", "nbs"]
+    },
+    "pba.png": {
+      "answers": ["pba", "philippine basketball association"]
+    },
+    "pldt.png": {
+      "answers": ["pldt"]
+    },
+    "san-miguel.png": {
+      "answers": ["san miguel"]
+    },
+    "sm.png": {
+      "answers": ["sm"]
+    },
+    "smart.png": {
+      "answers": ["smart"]
+    },
+    "sss.png": {
+      "answers": ["sss"]
+    },
+    "sun.png": {
+      "answers": ["sun", "sun cellular"]
+    }
+  }
+}

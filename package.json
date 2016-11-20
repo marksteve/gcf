@@ -1,0 +1,19 @@
+{
+  "name": "gcf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mark Steve Samson <hello@marksteve.com>",
+  "private": true,
+  "dependencies": {
+    "fs-promise": "^1.0.0",
+    "ioredis": "^2.4.0",
+    "leven": "^2.0.0",
+    "micro": "^6.1.0",
+    "request": "^2.78.0",
+    "request-promise": "^4.1.1",
+    "shuffle-array": "^1.0.0"
+  },
+  "scripts": {
+    "start": "micro -p 3000"
+  }
+}
